@@ -1,0 +1,9 @@
+// resources.rc - Resource file for embedding fonts
+
+#define IDR_FONT_REGULAR 101
+#define IDR_FONT_BOLD    102
+#define IDR_FONT_ITALIC  103
+
+IDR_FONT_REGULAR RCDATA "resource/font/SpaceMono-Regular.ttf"
+IDR_FONT_BOLD    RCDATA "resource/font/SpaceMono-Bold.ttf"
+IDR_FONT_ITALIC  RCDATA "resource/font/SpaceMono-Italic.ttf"
